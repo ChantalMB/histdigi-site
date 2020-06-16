@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on History, Digitized</title>
+    <link>https://hist-digitized.netlify.app/post/</link>
+    <description>Recent content in Posts on History, Digitized</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2020 Chantal Brousseau</copyright>
+    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hist-digitized.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Open Exit Ticket to Dr. Graham</title>
+      <link>https://hist-digitized.netlify.app/post/2020-06-14-exit-ticket/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-06-14-exit-ticket/</guid>
+      <description>When I started this class back in May, my impression of digital history was very vague. What came to mind when I thought about the subject was things like websites made for digital exhibitions, digitized archives, or maybe even open-source historical publications. I heard there was programming which piqued the computer science student within me, but I assumed it was all front-end and web design. I now know that digital history is SO much more.</description>
+    </item>
+    
+    <item>
+      <title>Week Six: Diaries and Data</title>
+      <link>https://hist-digitized.netlify.app/post/2020-06-14-week-six/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-06-14-week-six/</guid>
+      <description>I have NEVER been good at producing original work. It&amp;rsquo;s not that I dislike what I do, I just think of too much I want to do, all at once, and with all these ideas bouncing around in my head I stagnate, unsure of where to start. The proposed work of exploratory digital history for this week caused my internal monologue to voice some concerns, but fortunately, the &amp;ldquo;reading&amp;rdquo; associated with this week hushed it.</description>
+    </item>
+    
+    <item>
+      <title>Week Four: Close Encounters of a Historical Kind</title>
+      <link>https://hist-digitized.netlify.app/post/2020-06-01-week-four/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-06-01-week-four/</guid>
+      <description>I&amp;rsquo;m convinced that before this week, I&amp;rsquo;ve never used my laptop at full power before. Never have I heard my fans sound closer to what I would describe as a plane approaching take off than I did when I was trying to use the &amp;ldquo;sort&amp;rdquo; feature in AntConc. While this week&amp;rsquo;s central focus was on seeking dialogue with the information we&amp;rsquo;re analyzing, I found it to also be somewhat of a study in different ways the same task can be completed, and how the processes to achieve the same final result can lead to different or even greater understandings of the material they&amp;rsquo;re working with.</description>
+    </item>
+    
+    <item>
+      <title>Week Three: Networking Hard</title>
+      <link>https://hist-digitized.netlify.app/post/2020-05-24-week-three/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-05-24-week-three/</guid>
+      <description>This week has been the most technical yet, but surprisingly the least difficult AND most enjoyable for me. Unsurprisngly— as someone who plans to pursue librarianship as a career— cleaning, organizing, interpreting, and presenting data in a user-friendly way is something I love doing. While the intention of the lessons were to teach the process of data cleaning and creating networks from said data, through exploring the different ways that historical data can be presented and how it can be used provided me with greater insight and thought into what exactly makes a &amp;ldquo;good&amp;rdquo; or necessary visualisation.</description>
+    </item>
+    
+    <item>
+      <title>Week Two: Fail-error</title>
+      <link>https://hist-digitized.netlify.app/post/2020-05-16-week-two/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-05-16-week-two/</guid>
+      <description>This course was prefaced with the promise of failure. Not in the professor-wants-you-to-fail-the-class sort of way, rather, a promise that we as students will experience numerous small failures, yet we must embrace them as a learning tool to grow as digital historians. With that in mind, I&amp;rsquo;m happy to report that I&amp;rsquo;ve definitely experienced failure this week! Only two of the five activities related to course work went on without a hitch, and the last of them still remains incomplete (for now&amp;hellip;).</description>
+    </item>
+    
+    <item>
+      <title>Week One: Trials and Tech-bulations</title>
+      <link>https://hist-digitized.netlify.app/post/2020-05-09-week-one/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-05-09-week-one/</guid>
+      <description>Let summer classes begin! What better things do I have to do when the whole world is in lockdown? As a university student studying both history and computer science, I chose to take this course as digital history— a field I&amp;rsquo;ve only recently discovered in the past year— seems to encompass all of my interests. I&amp;rsquo;ve always been interested in digitization and how what I&amp;rsquo;ve learned studying computer science could be applied to my primary passion of history.</description>
+    </item>
+    
+    <item>
+      <title>Week Five: Creation in Context</title>
+      <link>https://hist-digitized.netlify.app/post/2020-06-08-week-five/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hist-digitized.netlify.app/post/2020-06-08-week-five/</guid>
+      <description>You are presently reading a post on a website that almost didn&amp;rsquo;t exist. This week of telling compelling stories through design started off strong for me&amp;ndash; a focus on aesthetics for someone whose primary interest in terms of programming is web design is guaranteed to be a hit! I learned about a handful of new, interesting tools that can be used to represent data through mapping, create simple colour palettes for visualizing data, and go MUCH more familiar with Adobe Illustrator.</description>
+    </item>
+    
+  </channel>
+</rss>
