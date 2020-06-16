@@ -16,11 +16,13 @@ Link to [github repository](https://github.com/ChantalMB/hist3814-site). More in
 netlify/
 ├── archetypes          # default layout for content files
 ├── content             # website content
-| └── images            # images for content
-| └── post              # blog posts
+├ └── images            # images for content
+├ └── post              # blog posts
+├─ data                 # stores config files
+├─ layouts              # site templates
 ├─ resources            # cache of files that speeds up site generation
-├─ config.toml          # Hugo directives
-└── themes              # site theme --> most aesthetic work done in here
+├─ static               # static content for site
+└── config.toml         # Hugo directives         
 ```
 
 ## Additional Credits
