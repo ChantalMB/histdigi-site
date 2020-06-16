@@ -1,5 +1,5 @@
 +++
-title = HIST3814O Coursework Platform
+title = "HIST3814O Coursework Platform"
 +++
 
 This is a blog/digital journal created for use in the Carleton University course HIST3814O with Dr. Shawn Graham. Powered by Hugo and published through Netlify. The theme is a modified version of [Chunky](https://github.com/puresyntax71/hugo-theme-chunky-poster), originally created by Strict Panda.
