@@ -1,6 +1,6 @@
-# HIST3814O Coursework Platform
+# Digital Humanities Coursework Platform
 
-This is a blog/digital journal created for use in the Carleton University course HIST3814O with Dr. Shawn Graham. Powered by Hugo and published through Netlify. The theme is a modified version of [Chunky](https://github.com/puresyntax71/hugo-theme-chunky-poster), originally created by Strict Panda.
+This is a blog/digital journal that was initially created for use in the Carleton University course HIST3814O with Dr. Shawn Graham. I'm now using it to document my other adventures in digital humanities, which currently is focused on HIST3000 aka Digital Archaeology. Powered by Hugo and published through Netlify. The theme is a modified version of [Chunky](https://github.com/puresyntax71/hugo-theme-chunky-poster), originally created by Strict Panda.
 
 ## Notable features
 
@@ -8,7 +8,7 @@ This is a blog/digital journal created for use in the Carleton University course
 
 ## Directory Structure
 
-Link to [github repository](https://github.com/ChantalMB/hist3814-site). More information on what these folders and files do can be found in the [Hugo documentation site](https://gohugo.io/getting-started/directory-structure/).
+Link to [github repository](https://github.com/ChantalMB/histdigi-site). More information on what these folders and files do can be found in the [Hugo documentation site](https://gohugo.io/getting-started/directory-structure/).
 
 ```bash
 netlify/
