@@ -13,3 +13,5 @@ Title: "Digging Deeper (Pun Intended)"
 - Does the potential of accessible information being skewed ever cause you concern?
 
 - Not everyone agrees with my characterization of what digital archaeology is, which the Cook & Compton article explores. How does that intersect with your thoughts?
+
+I 
