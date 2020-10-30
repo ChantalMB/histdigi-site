@@ -21,6 +21,10 @@ DisqusShortname = ""
     name = "Documentation"
     url = "/documentation/"
     weight = 11
+  [[menu.main]]
+    identifier = "fal fa-moon-o"
+    name = "fal fa-moon-o"
+
 
 [taxonomies]
   category = "categories"
